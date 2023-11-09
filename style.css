@@ -1,0 +1,20 @@
+/* arquivo style.css */
+
+body{
+    background-color: black;/*cor de fundo*/
+    color: red; /*cor do texto*/
+    font-family: Verdana, Arial, "sans-serif"; /*fonte*/
+}
+
+
+/*todos titulos h1*/
+h1{
+    color: red;
+    text-align: center; /*centraliza*/
+}
+
+
+hr{
+    color: red
+}
+
