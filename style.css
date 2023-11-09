@@ -18,3 +18,12 @@ hr{
     color: red
 }
 
+
+/* div com a class='container'*/
+.container{
+    max-width: 980px; /*largura maxima*/
+    margin:auto; /*centralizar a div*/
+    border:1px solid white;
+    padding: 50px; /*espaço interno*/
+    background-color: white;
+}
